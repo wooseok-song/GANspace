@@ -42,3 +42,14 @@ python main --MODE=V --component_num=[WHICH_PC_TO_PUSH]
 ```
 
 ## Pushing  latent to principal component Direction
+
+### Component [0]  hair
+
+![Comp 0](./result_img/hair1.png) 
+![Comp 0](./result_img/hair2.png) 
+
+
+### Component [1] pose rotation
+![Comp 1](./result_img/rot1.png)
+![Comp 2](./result_img/rot2.png) 
+ 
